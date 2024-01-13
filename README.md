@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi,  I'm Brandon Baniaga
+I'm interested in all things related to engineering
+I'm currently learning object-oriented programming at the University of Hawaii Manoa
+I'm originally from Kalihi, Hawaii
+I'm a senior in Electrical Engineering
+I chose this major because I want to design and learn about all things in the electrical field
+A fun fact about me is that I played college football for 4 years
+What do I want to learn from EE 205? I want to further my knowledge in the programming field by being proficient in the C and C++ language.
+A book  or movie that I recommend: The Bible
 
 <!--
 **BBaniagaEngineer/BBaniagaEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
